@@ -1,1 +1,1 @@
-# JBirdie-Crypto-Telegram-Bot
+# JBirdie Crypto Telegram Bot
